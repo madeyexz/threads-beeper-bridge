@@ -1,0 +1,9 @@
+# Secrets and per-user state: never commit
+registration.json
+registration.yaml
+bridge-state.json
+*.db
+*.har
+.amp/
+node_modules/
+.DS_Store
