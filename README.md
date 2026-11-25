@@ -101,3 +101,7 @@ The bridge also reads your bbctl access token from
   the inbox shows new activity, and backs off up to 1 hour when limited.
 - Matrix message timestamps can't be edited. Setting `"rebuild": true` on a room in `bridge-state.json`
   makes the bridge copy that conversation into a fresh room and remove the old one.
+
+## License
+
+[MIT](LICENSE)
